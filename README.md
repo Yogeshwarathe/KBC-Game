@@ -11,10 +11,12 @@ To install the pyttsx3 module, you need to install pip (python package manager).
 *pip is a package-management system used to install and manage software packages written in Python* .
 
 Also, python-espeak is a simple Python3 wrapper for the espeak speech synthesizer, which is a fancy way to say that it can make your computer talk.
+
         sudo apt-get update
         sudo apt install python3-pip
         pip3 install pyttsx3
         sudo apt-get install espeak
+        
 If you are using Linux based OS, open your terminal and navigate to the directory where kbc.py file is located. Now, you can run the game by using the following command.
 
         python3 kbc.py
